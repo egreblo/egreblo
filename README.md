@@ -5,17 +5,17 @@
 💻 Passionate about machine learning, computer vision, and simulation  
 
 ## 🧰 Skills
-- Languages: C++, Python, C#
-- Frameworks: PyTorch, Unity, 
-- Tools: Git, VS Code, Unity
+- Languages: Python, C#, C++
+- Frameworks: PyTorch, Unity
+- Tools: Git, VS Code
 
 ## 📌 Featured Projects
 
-### 🔁 [Self-driving Car Simulation]
-Genetic algorithm that evolves a car to drive through a track in Unity.
-
 ### 🧠 [Facial expression recognition using CNNs](https://github.com/egreblo/facial-expression-recognition)
 CNN models capable of classifying 7 different facial expressions.
+
+### 🔁 [Flocking Simulation]
+A real-time Unity simulation of autonomous agents exhibiting natural flocking behavior using the Boids algorithm.
 
 ## 📫 Get in Touch
 - 📧 erikgreblo@email.com
