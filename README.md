@@ -14,7 +14,7 @@
 ### 🔁 [Self-driving Car Simulation]
 Genetic algorithm that evolves a car to drive through a track in Unity.
 
-### 🧠 [Facial expression recognition using CNNs]
+### 🧠 [Facial expression recognition using CNNs](https://github.com/egreblo/facial-expression-recognition)
 CNN models capable of classifying 7 different facial expressions.
 
 ## 📫 Get in Touch
