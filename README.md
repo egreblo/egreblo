@@ -1,25 +1,22 @@
 # 👋 Hi, I'm Erik Greblo
 
-🎓 Master's student in Computer Science  
+🎓 Master's student in Computer Science at [FER](https://www.fer.unizg.hr/)
+
 💻 Passionate about machine learning, computer vision, and simulation  
-🚀 Currently building intelligent systems and parallelized simulations
 
 ## 🧰 Skills
-- Languages: C++, Python, JavaScript, C#
-- Frameworks: PyTorch, TensorFlow, Unity, OpenCV, MPI
-- Tools: Git, Linux, VS Code
+- Languages: C++, Python, C#
+- Frameworks: PyTorch, Unity, 
+- Tools: Git, VS Code, Unity
 
 ## 📌 Featured Projects
 
 ### 🔁 [Self-driving Car Simulation]
 Genetic algorithm that evolves a car to drive through a track in Unity.
 
-### 🧠 [Image Texture Analysis]
-Extracting texture features like energy and entropy from images using Python.
-
-### 🧮 [Connect 4 with MPI]
-Parallelized Connect 4 game using recursive tree search and MPI in C++.
+### 🧠 [Facial expression recognition using CNNs]
+CNN models capable of classifying 7 different facial expressions.
 
 ## 📫 Get in Touch
 - 📧 erikgreblo@email.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)
+- 🔗 [LinkedIn]
