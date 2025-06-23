@@ -11,6 +11,9 @@
 
 ## 📌 Featured Projects
 
+### 🚗 [Simulating car control using neural networks](https://github.com/egreblo/car-control-AI)
+Interactive Unity-based simulation that explores how artificial intelligence can learn to control a car on a racetrack using neural networks and genetic algorithms.
+
 ### 🧠 [Facial expression recognition using CNNs](https://github.com/egreblo/facial-expression-recognition)
 CNN models capable of classifying 7 different facial expressions.
 
