@@ -22,4 +22,3 @@ A real-time Unity simulation of autonomous agents exhibiting natural flocking be
 
 ## 📫 Get in Touch
 - 📧 erikgreblo@email.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/erik-greblo-497810279/)
